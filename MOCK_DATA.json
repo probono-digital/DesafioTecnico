@@ -5,7 +5,7 @@
     "requisites": { "cost": "R$30,00", "participants_number": 1 },
     "suggested_location": "Ice skating rink",
     "suggested_weather_conditions": "Snow",
-    "unsuggested_weather_conditions": null
+    "unsuggested_weather_conditions": []
   },
   {
     "id": 2,
@@ -106,7 +106,7 @@
     "requisites": { "cost": null, "participants_number": 1 },
     "suggested_location": "Home",
     "suggested_weather_conditions": "Clouds",
-    "unsuggested_weather_conditions": null
+    "unsuggested_weather_conditions": []
   },
   {
     "id": 12,
@@ -114,7 +114,7 @@
     "requisites": { "cost": "R$100,00", "participants_number": 2 },
     "suggested_location": "Kitchen",
     "suggested_weather_conditions": "Drizzle",
-    "unsuggested_weather_conditions": null
+    "unsuggested_weather_conditions": []
   },
   {
     "id": 13,
@@ -136,7 +136,7 @@
     "requisites": { "cost": "R$10,00", "participants_number": 2 },
     "suggested_location": "TV Room",
     "suggested_weather_conditions": "Clouds",
-    "unsuggested_weather_conditions": null
+    "unsuggested_weather_conditions": []
   },
   {
     "id": 15,
@@ -165,7 +165,7 @@
     "requisites": { "cost": "R$200,00", "participants_number": 6 },
     "suggested_location": "In house",
     "suggested_weather_conditions": "Rain",
-    "unsuggested_weather_conditions": null
+    "unsuggested_weather_conditions": []
   },
   {
     "id": 18,
