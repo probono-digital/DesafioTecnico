@@ -1,0 +1,69 @@
+[
+  {
+    "id": 1,
+    "activity_title": "Patinação no gelo em local fechado",
+    "requisites": { "cost": "R$30,00", "participants_": 1 },
+    "suggested_location": "Rinque de patinação",
+    "suggested_weather_conditions": "any"
+  },
+  {
+    "id": 2,
+    "activity_title": "Patinação no gelo em local aberto",
+    "requisites": { "weather_conditions": "sunny", "cost": "R$10,00" },
+    "suggested_location": "Rinque de patinação aberto"
+  },
+  {
+    "id": 3,
+    "activity_title": "Andar de skate",
+    "requisites": { "weather_conditions": "sunny", "cost": "R$00,00" },
+    "suggested_location": "Parque público"
+  },
+  {
+    "id": 4,
+    "activity_title": "Andar de patins",
+    "requisites": { "weather_conditions": "sunny", "cost": "R$00,00" },
+    "suggested_location": "Parque público"
+  },
+  {
+    "id": 5,
+    "activity_title": "Passear com o cachorro",
+    "requisites": { "weather_conditions": "sunny", "cost": "R$00,00" },
+    "suggested_location": "any"
+  },
+  {
+    "id": 6,
+    "activity_title": "Jogar videogame",
+    "requisites": { "weather_conditions": "any", "cost": "R$100,00+" },
+    "suggested_location": "Local fechado"
+  },
+  {
+    "id": 7,
+    "activity_title": "Nadar em piscina",
+    "requisites": { "weather_conditions": "sunny", "cost": "R$00,00" },
+    "suggested_location": "Casa/clube com piscina"
+  },
+  {
+    "id": 8,
+    "activity_title": "Ir à cachoeira",
+    "requisites": { "weather_conditions": "sunny", "cost": "~R$20,00" },
+    "suggested_location": "Cachoeira pública"
+  },
+  {
+    "id": 9,
+    "activity_title": "Dançar na chuva",
+    "requisites": { "weather_conditions": "Rain", "cost": "R$00,00" },
+    "suggested_location": "Local aberto"
+  },
+  {
+    "id": 10,
+    "activity_title": "Acampar",
+    "requisites": { "weather_conditions": "any", "cost": "R$00,00" },
+    "suggested_location": "Mata"
+  },
+  {
+    "id": 11,
+    "activity_title": "Ficar de boas no edredom",
+    "requisites": { "weather_conditions": "Rain", "cost": "R$00,00" },
+    "suggested_location": "Casa"
+  }
+]
